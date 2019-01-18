@@ -1,0 +1,7 @@
+spawn scp -P 50014 ghpb scpput                          hpb@222.128.104.75:/home/hpb/
+ssh: connect to host 222.128.104.75 port 50014: Connection timed out
+lost connection
+expect: spawn id exp4 not open
+    while executing
+"expect eof"
+    (file "./cjscpput.sh" line 41)

@@ -1,0 +1,7 @@
+scpget	192.168.1.22	hpb	hpb123456	22	/home/hpb/go-ghpb/testnode/logs/hpnode1	hpnodelog
+scpget	192.168.1.23	hpb	hpb123456	22	/home/hpb/go-ghpb/testnode/logs/hpnode2	hpnodelog
+scpget	192.168.1.24	hpb	hpb123456	22	/home/hpb/go-ghpb/testnode/logs/hpnode3	hpnodelog
+scpget	192.168.1.25	hpb	hpb123456	22	/home/hpb/go-ghpb/testnode/logs/hpnode4	hpnodelog
+scpget	192.168.1.26	hpb	hpb123456	22	/home/hpb/go-ghpb/testnode/logs/hpnode5	hpnodelog
+scpget	192.168.1.27	hpb	hpb123456	22	/home/hpb/go-ghpb/testnode/logs/hpnode6	hpnodelog
+scpget	结束					

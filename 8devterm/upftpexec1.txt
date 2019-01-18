@@ -1,0 +1,10 @@
+#上传文件放在/home/hpb/目录下					
+scpput	222.128.104.75	hpb	hpb123456	50012	batch.go 
+scpput	222.128.104.75	hpb	hpb123456	50013	batch.go 
+scpput	222.128.104.75	hpb	hpb123456	50014	batch.go 
+scpput	222.128.104.75	hpb	hpb123456	50015	batch.go 
+scpput	222.128.104.75	hpb	hpb123456	50016	batch.go 
+scpput	222.128.104.75	hpb	hpb123456	50017	batch.go 
+scpput	222.128.104.75	hpb	hpb123456	50018	batch.go 
+scpput	222.128.104.75	hpb	hpb123456	50019	batch.go 
+scpput	结束				

@@ -1,0 +1,18 @@
+#rmplogs						
+ssh	222.128.104.75	hpb	hpb123456	50012	/home/hpb/go-ghpb/testnode/logs	rm@-rf@hpnode1
+ssh	222.128.104.75	hpb	hpb123456	50013	/home/hpb/go-ghpb/testnode/logs	rm@-rf@hpnode2
+ssh	222.128.104.75	hpb	hpb123456	50014	/home/hpb/go-ghpb/testnode/logs	rm@-rf@hpnode3
+ssh	222.128.104.75	hpb	hpb123456	50015	/home/hpb/go-ghpb/testnode/logs	rm@-rf@hpnode4
+ssh	222.128.104.75	hpb	hpb123456	50016	/home/hpb/go-ghpb/testnode/logs	rm@-rf@hpnode5
+ssh	222.128.104.75	hpb	hpb123456	50017	/home/hpb/go-ghpb/testnode/logs	rm@-rf@hpnode6
+ssh	222.128.104.75	hpb	hpb123456	50018	/home/hpb/go-ghpb/testnode/logs	rm@-rf@hpnode7
+ssh	222.128.104.75	hpb	hpb123456	50019	/home/hpb/go-ghpb/testnode/logs	rm@-rf@hpnode8
+ssh	222.128.104.75	hpb	hpb123456	50012	/home/hpb/go-ghpb/testnode/logs	>hpnode1
+ssh	222.128.104.75	hpb	hpb123456	50013	/home/hpb/go-ghpb/testnode/logs	>hpnode2
+ssh	222.128.104.75	hpb	hpb123456	50014	/home/hpb/go-ghpb/testnode/logs	>hpnode3
+ssh	222.128.104.75	hpb	hpb123456	50015	/home/hpb/go-ghpb/testnode/logs	>hpnode4
+ssh	222.128.104.75	hpb	hpb123456	50016	/home/hpb/go-ghpb/testnode/logs	>hpnode5
+ssh	222.128.104.75	hpb	hpb123456	50017	/home/hpb/go-ghpb/testnode/logs	>hpnode6
+ssh	222.128.104.75	hpb	hpb123456	50018	/home/hpb/go-ghpb/testnode/logs	>hpnode7
+ssh	222.128.104.75	hpb	hpb123456	50019	/home/hpb/go-ghpb/testnode/logs	>hpnode8
+ssh	结束					

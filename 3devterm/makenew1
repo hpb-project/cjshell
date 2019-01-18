@@ -1,0 +1,10 @@
+cd ../../../../
+pwd
+make all
+cd ./build/bin
+ls -ltr
+cp ./ghpb ./cjshell/kdevterm
+cd ./cjshell/kdevterm
+ls -ltr
+./upexec.sh
+./seeerr.sh

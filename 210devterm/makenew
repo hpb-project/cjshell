@@ -1,0 +1,12 @@
+./stop.sh
+./stop.sh
+cd ../../../../
+pwd
+make all
+cd ./build/bin
+ls -ltr
+cp ./ghpb ./cjshell/210devterm
+cd ./cjshell/210devterm
+ls -ltr
+./upexec.sh
+./seeerr.sh

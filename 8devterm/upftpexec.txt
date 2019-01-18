@@ -1,0 +1,10 @@
+#上传ghpb文件放在/home/hpb/目录下					
+scpput	222.128.104.75	hpb	hpb123456	50012	ghpb
+scpput	222.128.104.75	hpb	hpb123456	50013	ghpb
+scpput	222.128.104.75	hpb	hpb123456	50014	ghpb
+scpput	222.128.104.75	hpb	hpb123456	50015	ghpb
+scpput	222.128.104.75	hpb	hpb123456	50016	ghpb
+scpput	222.128.104.75	hpb	hpb123456	50017	ghpb
+scpput	222.128.104.75	hpb	hpb123456	50018	ghpb
+scpput	222.128.104.75	hpb	hpb123456	50019	ghpb
+scpput	结束				

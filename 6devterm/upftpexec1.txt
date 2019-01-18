@@ -1,0 +1,8 @@
+#上传文件放在/home/hpb/目录下					
+scpput	192.168.1.22	hpb	hpb123456	22	20181218.tar.gz 
+scpput	192.168.1.23	hpb	hpb123456	22	20181218.tar.gz 
+scpput	192.168.1.24	hpb	hpb123456	22	20181218.tar.gz 
+scpput	192.168.1.25	hpb	hpb123456	22	20181218.tar.gz 
+scpput	192.168.1.26	hpb	hpb123456	22	20181218.tar.gz 
+scpput	192.168.1.27	hpb	hpb123456	22	20181218.tar.gz 
+scpput	结束				

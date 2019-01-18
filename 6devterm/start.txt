@@ -1,0 +1,8 @@
+#启动服务									
+ssh	192.168.1.22	hpb	hpb123456	22	./	cd@/home/hpb/go-ghpb/testnode/nohup	./1	ps@-ef|grep@ghpb	ss@-tan
+ssh	192.168.1.23	hpb	hpb123456	22	./	cd@/home/hpb/go-ghpb/testnode/nohup	./2	ps@-ef|grep@ghpb	ss@-tan
+ssh	192.168.1.24	hpb	hpb123456	22	./	cd@/home/hpb/go-ghpb/testnode/nohup	./3	ps@-ef|grep@ghpb	ss@-tan
+ssh	192.168.1.25	hpb	hpb123456	22	./	cd@/home/hpb/go-ghpb/testnode/nohup	./4	ps@-ef|grep@ghpb	ss@-tan
+ssh	192.168.1.26	hpb	hpb123456	22	./	cd@/home/hpb/go-ghpb/testnode/nohup	./5	ps@-ef|grep@ghpb	ss@-tan
+ssh	192.168.1.27	hpb	hpb123456	22	./	cd@/home/hpb/go-ghpb/testnode/nohup	./6	ps@-ef|grep@ghpb	ss@-tan
+ssh	结束								

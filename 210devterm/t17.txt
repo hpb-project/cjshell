@@ -1,0 +1,2 @@
+sshinteract	192.168.5.112	hpb	hpb123456	22	/home/hpb/go-ghpb/testnode/hptail	./17	ps@-ef|grep@ghpb	ss@-tan
+sshinteract	结束								

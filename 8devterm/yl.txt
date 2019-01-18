@@ -1,0 +1,2 @@
+ssh	222.128.104.75	hpb	hpb123456	50017	./	nohup@go@run@go1.go@>>go1.log@&	nohup@go@run@go2.go@>>go2.log@&	nohup@go@run@go3.go@>>go3.log@&	nohup@go@run@go4.go@>>go4.log@&	nohup@go@run@go5.go@>>go5.log@&	nohup@go@run@go6.go@>>go6.log@&	nohup@go@run@go7.go@>>go7.log@&	nohup@go@run@go8.go@>>go8.log@&	nohup@go@run@go9.go@>>go9.log@&
+ssh	结束													

@@ -1,0 +1,4 @@
+#scpget/scpput/sftpget/sftpput/ssh	服务器地址	用户名	密码	操作目录/执行命令	操作目录/执行命令	执行命令2	执行命令3	执行命令4	执行命令5		
+#依次控制远程服务器，执行算定义命令后，可手工介入远程服务器								
+sshinteract	192.168.1.22	hpb	hpb123456	22	/home/hpb/go-ghpb/testnode/hptail	./1	ps@-ef|grep@ghpb	ss@-tan	
+sshinteract	结束							

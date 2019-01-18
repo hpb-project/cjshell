@@ -1,0 +1,29 @@
+spawn scp -P 22 ghpb scpput                          hpb@192.168.1.25:/home/hpb/
+hpb@192.168.1.25's password: 
+ghpb                                                                                                      0%    0     0.0KB/s   --:-- ETAghpb                                                                                                     57%   17MB  16.7MB/s   00:00 ETAghpb                                                                                                    100%   29MB  29.3MB/s   00:01    
+scpput: No such file or directory
+: No such file or directory
+: No such file or directory
+: No such file or directory
+: No such file or directory
+: No such file or directory
+: No such file or directory
+: No such file or directory
+: No such file or directory
+: No such file or directory
+: No such file or directory
+: No such file or directory
+: No such file or directory
+: No such file or directory
+: No such file or directory
+: No such file or directory
+: No such file or directory
+: No such file or directory
+: No such file or directory
+: No such file or directory
+: No such file or directory
+: No such file or directory
+: No such file or directory
+: No such file or directory
+: No such file or directory
+: No such file or directory

@@ -1,0 +1,9 @@
+scpget	222.128.104.75	hpb	hpb123456	/home/hpb/go-ghpb/testnode/logs/hpnode1	hpnodelog
+scpget	222.128.104.75	hpb	hpb123456	/home/hpb/go-ghpb/testnode/logs/hpnode2	hpnodelog
+scpget	222.128.104.75	hpb	hpb123456	/home/hpb/go-ghpb/testnode/logs/hpnode3	hpnodelog
+scpget	222.128.104.75	hpb	hpb123456	/home/hpb/go-ghpb/testnode/logs/hpnode4	hpnodelog
+scpget	222.128.104.75	hpb	hpb123456	/home/hpb/go-ghpb/testnode/logs/hpnode5	hpnodelog
+scpget	222.128.104.75	hpb	hpb123456	/home/hpb/go-ghpb/testnode/logs/hpnode6	hpnodelog
+scpget	222.128.104.75	hpb	hpb123456	/home/hpb/go-ghpb/testnode/logs/hpnode7	hpnodelog
+scpget	222.128.104.75	hpb	hpb123456	/home/hpb/go-ghpb/testnode/logs/hpnode8	hpnodelog
+scpget	结束					

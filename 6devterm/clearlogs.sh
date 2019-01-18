@@ -1,0 +1,1 @@
+./selfcommand.sh clearlogs.txt

@@ -1,0 +1,10 @@
+#停止服务								
+ssh	222.128.104.75	root	hpb123456	50012	./	echo@hpb123456@|@sudo@-S@killall@ghpb@&@echo@hpb123456@|@sudo@-S@killall@iperf3	ps@-ef|grep@ghpb	ss@-tan
+ssh	222.128.104.75	root	hpb123456	50013	./	echo@hpb123456@|@sudo@-S@killall@ghpb@&@echo@hpb123456@|@sudo@-S@killall@iperf3	ps@-ef|grep@ghpb	ss@-tan
+ssh	222.128.104.75	root	hpb123456	50014	./	echo@hpb123456@|@sudo@-S@killall@ghpb@&@echo@hpb123456@|@sudo@-S@killall@iperf3	ps@-ef|grep@ghpb	ss@-tan
+ssh	222.128.104.75	root	hpb123456	50015	./	echo@hpb123456@|@sudo@-S@killall@ghpb@&@echo@hpb123456@|@sudo@-S@killall@iperf3	ps@-ef|grep@ghpb	ss@-tan
+ssh	222.128.104.75	root	hpb123456	50016	./	echo@hpb123456@|@sudo@-S@killall@ghpb@&@echo@hpb123456@|@sudo@-S@killall@iperf3	ps@-ef|grep@ghpb	ss@-tan
+ssh	222.128.104.75	root	hpb123456	50017	./	echo@hpb123456@|@sudo@-S@killall@ghpb@&@echo@hpb123456@|@sudo@-S@killall@iperf3	ps@-ef|grep@ghpb	ss@-tan
+ssh	222.128.104.75	root	hpb123456	50018	./	echo@hpb123456@|@sudo@-S@killall@ghpb@&@echo@hpb123456@|@sudo@-S@killall@iperf3	ps@-ef|grep@ghpb	ss@-tan
+ssh	222.128.104.75	root	hpb123456	50019	./	echo@hpb123456@|@sudo@-S@killall@ghpb@&@echo@hpb123456@|@sudo@-S@killall@iperf3	ps@-ef|grep@ghpb	ss@-tan
+ssh	结束							

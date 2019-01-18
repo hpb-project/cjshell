@@ -1,0 +1,6 @@
+#停止服务									
+ssh	192.168.1.22	hpb	hpb123456	22	./	echo@hpb123456@|@sudo@-S@killall@ghpb	echo@hpb123456@|@sudo@-S@killall@iperf3	ps@-ef|grep@ghpb	ss@-tan
+ssh	192.168.1.25	hpb	hpb123456	22	./	echo@hpb123456@|@sudo@-S@killall@ghpb	echo@hpb123456@|@sudo@-S@killall@iperf3	ps@-ef|grep@ghpb	ss@-tan
+ssh	192.168.1.26	hpb	hpb123456	22	./	echo@hpb123456@|@sudo@-S@killall@ghpb	echo@hpb123456@|@sudo@-S@killall@iperf3	ps@-ef|grep@ghpb	ss@-tan
+ssh	192.168.1.27	hpb	hpb123456	22	./	echo@hpb123456@|@sudo@-S@killall@ghpb	echo@hpb123456@|@sudo@-S@killall@iperf3	ps@-ef|grep@ghpb	ss@-tan
+ssh	结束								

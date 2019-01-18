@@ -1,0 +1,10 @@
+#更新最新ghpb													
+ssh	222.128.104.75	hpb	hpb123456	50012	./	ps@-ef|grep@ghpb	cp@/home/hpb/ghpb@/home/hpb/go-ghpb/ghpb	ls@-ltr@/home/hpb/go-ghpb/ghpb	
+ssh	222.128.104.75	hpb	hpb123456	50013	./	ps@-ef|grep@ghpb	cp@/home/hpb/ghpb@/home/hpb/go-ghpb/ghpb	ls@-ltr@/home/hpb/go-ghpb/ghpb	
+ssh	222.128.104.75	hpb	hpb123456	50014	./	ps@-ef|grep@ghpb	cp@/home/hpb/ghpb@/home/hpb/go-ghpb/ghpb	ls@-ltr@/home/hpb/go-ghpb/ghpb	
+ssh	222.128.104.75	hpb	hpb123456	50015	./	ps@-ef|grep@ghpb	cp@/home/hpb/ghpb@/home/hpb/go-ghpb/ghpb	ls@-ltr@/home/hpb/go-ghpb/ghpb	
+ssh	222.128.104.75	hpb	hpb123456	50016	./	ps@-ef|grep@ghpb	cp@/home/hpb/ghpb@/home/hpb/go-ghpb/ghpb	ls@-ltr@/home/hpb/go-ghpb/ghpb	
+ssh	222.128.104.75	hpb	hpb123456	50017	./	ps@-ef|grep@ghpb	cp@/home/hpb/ghpb@/home/hpb/go-ghpb/ghpb	ls@-ltr@/home/hpb/go-ghpb/ghpb	
+ssh	222.128.104.75	hpb	hpb123456	50018	./	ps@-ef|grep@ghpb	cp@/home/hpb/ghpb@/home/hpb/go-ghpb/ghpb	ls@-ltr@/home/hpb/go-ghpb/ghpb	
+ssh	222.128.104.75	hpb	hpb123456	50019	./	ps@-ef|grep@ghpb	cp@/home/hpb/ghpb@/home/hpb/go-ghpb/ghpb	ls@-ltr@/home/hpb/go-ghpb/ghpb	
+ssh	结束												

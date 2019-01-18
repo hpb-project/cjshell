@@ -1,0 +1,5 @@
+#上传文件放在/home/hpb/目录下					
+scpput	192.168.1.25	hpb	hpb123456	22	batch.go 
+scpput	192.168.1.26	hpb	hpb123456	22	batch.go 
+scpput	192.168.1.27	hpb	hpb123456	22	batch.go 
+scpput	结束				

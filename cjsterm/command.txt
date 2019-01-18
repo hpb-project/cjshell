@@ -1,0 +1,22 @@
+#scpget/scpput/sftpget/sftpput/ssh	服务器地址	用户名	密码	操作目录/执行命令	操作目录/执行命令	执行命令2	执行命令3	执行命令4	执行命令5		
+#scpget/scpput/sftpget/sftpput/ssh	服务器地址	用户名	密码	操作目录/执行命令	操作目录/执行命令	执行命令2	执行命令3	执行命令4	执行命令5		
+scpput	47.104.142.206	root	Hpb123456	kk1.txt	kk2.txt	kk3.txt	kk4.txt	kk5.txt	hpnodelog.20180818.tar.gz		
+scpput	47.104.142.207	root	Hpb123456	kk1.txt	kk2.txt	kk3.txt	kk4.txt	kk5.txt	kk6.txt		
+scpput	结束										
+scpget	47.104.142.206	root	Hpb123456	/root/kk1.txt	./logs						
+scpget	47.104.142.207	root	Hpb123456	/root/kk1.txt	./logs						
+scpget	结束										
+sftpput	47.104.142.206	root	Hpb123456	./	kk1.txt	kk2.txt	kk3.txt	kk4.txt	hpnodelog.20180818.tar.gz		
+sftpput	47.104.142.207	root	Hpb123456	./	kk1.txt	kk2.txt	kk3.txt	kk4.txt	kk5.txt		
+sftpput	结束										
+sftpget	47.104.142.206	root	Hpb123456	./	kk1.txt	kk2.txt	kk3.txt	kk4.txt	hpnodelog.20180818.tar.gz		
+sftpget	47.104.142.207	root	Hpb123456	./	kk1.txt	kk2.txt	kk3.txt	kk4.txt	hpnodelog.20180818.tar.gz		
+sftpget	结束										
+ssh	47.104.142.206	root	Hpb123456	./	ls	pwd	df	cd@go-ghpb@&@ls@-ltrh	cal		
+ssh	47.104.142.206	root	Hpb123456	./	ls	pwd	df	cd@go-ghpb@&@ls@-ltrh	cd@go-ghpb	ls@-ltrh	cal
+ssh	结束										
+#scpput	默认上传/root/目录下	支付6个附件同时上传									
+#scpget	/root/kk1.txt	下载绝对路经文件名		./表示把服务器内容下载到当前目录							
+sshinteract	47.104.142.206	root	Hpb123456	./	ls	pwd	df	cd@go-ghpb@&@ls@-ltrh	cal		
+sshinteract	47.104.142.206	root	Hpb123456	./	ls	pwd	df	cd@go-ghpb@&@ls@-ltrh	cd@go-ghpb	ls@-ltrh	cal
+sshinteract	结束										

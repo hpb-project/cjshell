@@ -1,0 +1,1 @@
+./selfcommand.sh rmplog.txt

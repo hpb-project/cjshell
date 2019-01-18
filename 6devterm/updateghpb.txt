@@ -1,0 +1,8 @@
+#更新最新ghpb													
+ssh	192.168.1.22	hpb	hpb123456	22	./	ps@-ef|grep@ghpb	cp@/home/hpb/ghpb@/home/hpb/go-ghpb/ghpb	ls@-ltr@/home/hpb/go-ghpb/ghpb	
+ssh	192.168.1.23	hpb	hpb123456	22	./	ps@-ef|grep@ghpb	cp@/home/hpb/ghpb@/home/hpb/go-ghpb/ghpb	ls@-ltr@/home/hpb/go-ghpb/ghpb	
+ssh	192.168.1.24	hpb	hpb123456	22	./	ps@-ef|grep@ghpb	cp@/home/hpb/ghpb@/home/hpb/go-ghpb/ghpb	ls@-ltr@/home/hpb/go-ghpb/ghpb	
+ssh	192.168.1.25	hpb	hpb123456	22	./	ps@-ef|grep@ghpb	cp@/home/hpb/ghpb@/home/hpb/go-ghpb/ghpb	ls@-ltr@/home/hpb/go-ghpb/ghpb	
+ssh	192.168.1.26	hpb	hpb123456	22	./	ps@-ef|grep@ghpb	cp@/home/hpb/ghpb@/home/hpb/go-ghpb/ghpb	ls@-ltr@/home/hpb/go-ghpb/ghpb	
+ssh	192.168.1.27	hpb	hpb123456	22	./	ps@-ef|grep@ghpb	cp@/home/hpb/ghpb@/home/hpb/go-ghpb/ghpb	ls@-ltr@/home/hpb/go-ghpb/ghpb	
+ssh	结束												
